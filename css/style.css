@@ -145,3 +145,6 @@ body{
 .grid-text{
     font-weight: 600;
 }
+.feature-text{
+    color: rgb(65, 196, 146);
+}
