@@ -148,3 +148,13 @@ body{
 .feature-text{
     color: rgb(65, 196, 146);
 }
+.twitter-icon i{
+    align-items: center;
+}
+.help-text{
+    background-color: rgb(3, 192, 135);
+    color: white;
+}
+.help-text:hover{
+    background-color: rgb(63, 60, 60);
+}
