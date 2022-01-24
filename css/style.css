@@ -176,6 +176,17 @@ body{
 .grid-text{
     font-weight: 600;
 }
+.feature-icon span i{
+    /* padding-top: 5px; */
+    font-size: 30px;
+    color:rgb(3, 192, 135) ;
+}
+.feature-icon span h4{
+    font-weight: 600;
+    margin-left: 20px;
+    
+}
+
 .feature-text{
     color: rgb(65, 196, 146);
 }
