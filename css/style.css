@@ -168,13 +168,11 @@ body{
     color: #2b6cb0;
     /*Set to match the Tailwind colour you want the active one to be */
   }
-  .icon i{
-      align-items: center;
-      width: 30px;
-      
-  }
 .grid-text{
     font-weight: 600;
+}
+.service{
+    text-align: center;
 }
 .feature-icon span i{
     /* padding-top: 5px; */
