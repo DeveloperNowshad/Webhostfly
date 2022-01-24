@@ -38,6 +38,7 @@ body{
 }
 .login-btn:hover{
     background-color: white;
+    transition: 0.8s;
 
 }
 .logo{
@@ -56,13 +57,27 @@ body{
 .social-contact-icon a{
     text-decoration: none;
     justify-content: space-between;
+    padding: 10px;
+    font-weight: 100;
+    font-size: 80%;
+   
 }
-.more-icon a{
-    justify-content: right;
+.social-contact-icon a i{
+    color: rgb(59, 230, 82);
+}
+.social-contact-icon a:hover{
+    color: red;
+
+}
+.more-icon a i{
+   padding: 10px;
+   color: rgb(187, 180, 180);
+   font-size: 13px;
+
 }
 .menu-bar{
     text-align: center;
-    border-top: 1px solid rgb(233, 220, 220);
+    border-top: 1px solid rgb(175, 164, 164);
     
 }
 .menu-bar ul{
@@ -148,8 +163,11 @@ body{
 .feature-text{
     color: rgb(65, 196, 146);
 }
-.twitter-icon i{
-    align-items: center;
+span .fa-twitter{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    color:rgb(3, 192, 135) ;
 }
 .help-text{
     background-color: rgb(3, 192, 135);
