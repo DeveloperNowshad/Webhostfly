@@ -44,14 +44,30 @@ body{
 .logo{
     width: 170px;
     /* margin-top: 30px; */
-    border-right: 1px solid gray;
+    /* border-right: 1px solid gray; */
     
     
 }
 .header{
+    display: flex;
     background-color: white;
     margin-top: 10px;
+    align-items: center;
+    border-right: 1px solid black;
 
+}
+.img-logo{
+    border-right: 1px solid black;
+    padding: 45px;
+    
+}
+
+
+.menu{
+    display: table-column;
+    justify-content: center;
+    align-items: center;
+    
 }
 
 .social-contact-icon a{
