@@ -41,15 +41,8 @@ body{
     transition: 0.8s;
 
 }
-.logo{
-    width: 170px;
-    /* margin-top: 30px; */
-    /* border-right: 1px solid gray; */
-    
-    
-}
 .header{
-    /* display: flex; */
+   
     background-color: white;
     margin-top: 10px;
     align-items: center;
@@ -57,8 +50,8 @@ body{
 
 }
 .img-logo{
-    border-right: 1px solid black;
-    padding: 45px;
+    border-right: 1px solid gainsboro;
+    padding: 35px;
     
 }
 
@@ -132,7 +125,7 @@ body{
 }
 .feature-icon span h4{
     font-weight: 600;
-    margin-left: 20px;
+    margin-left: 5px;
     
 }
 
