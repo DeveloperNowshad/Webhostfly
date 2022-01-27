@@ -187,13 +187,13 @@ span .fa-twitter{
   }
   
   .navbar a:hover, .dropdown:hover .dropbtn {
-    /* background-color: rgb(25, 0, 255); */
+    /* background-color: rgb(61, 29, 221); */
   }
   
   .dropdown-content {
     display: none;
     position: absolute;
-    /* background-color: #1310c5; */
+    background-color: white;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
